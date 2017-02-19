@@ -157,3 +157,299 @@ width: 100%;
 /*height: 80px;
 */}
 /*KERIMOV FERID*/
+/*Ragim*/
+.full{
+	width: 100%;
+}
+.width-960{
+	width: 960px;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.clear{
+	clear: both;
+}
+.marginAuto{
+	margin: 0 auto;
+}
+
+
+/*Ragim-> #galery.content*/
+#galery .content{
+	height: 600px;
+}
+#galery .content .orta{
+	height: 100%;
+}
+#galery .content .orta .sol{
+	width: 800px;
+	height: 100%;
+}
+
+/*us hisse*/
+
+#galery .content .orta .sol .ust{
+	width: 800px;
+	height: 300px;
+}
+
+#galery .content .orta .sol .ust div{
+	width: 350px;
+	height: 300px;
+	display: inline-block;
+	margin: 0 auto;
+}
+#galery .content .orta .sol .ust div img{
+	width: 100px;
+	margin-left:130px;
+	margin-top: 10px;
+}
+#galery .content .orta .sol .ust div h3{
+	text-align: center;
+}
+#galery .content .orta .sol .ust div p{
+	text-align: center;
+}
+
+/*alt hisse*/
+
+#galery .content .orta.sol.alt{
+	width: 800px;
+	height: 300px;
+}
+#galery .content .orta .sol .alt div{
+	width: 350px;
+	height: 300px;
+	display: inline-block;
+	margin: 0 auto;
+}
+#galery .content .orta .sol .alt div img{
+	width: 100px;
+	margin-left:130px;
+	margin-top: 10px;
+}
+#galery .content .orta .sol .alt div h3{
+	text-align: center;
+}
+#galery .content .orta .sol .alt div p{
+	text-align: center;
+}
+
+/*sag hisse*/
+
+#galery .content .orta .sag{
+	width: 160px;
+	height: 100%;
+}
+#galery .content .orta .sag img{
+	width: 160px;
+}
+#galery .content .orta .sag p{
+	text-align: center;
+}
+#galery .content .orta .sag h3{
+	text-align: center;
+}
+#galery .content .orta .sag p button{
+	width: 150px;
+	height: 40px;
+	text-align: center;
+	box-shadow:  5px 5px 5px #888888;
+	margin-top: 30px;
+}
+
+/*about hisse*/
+
+#galery .about{
+ 	height: 510px;
+}
+#galery .about {
+	background:url(../background-02.jpg);
+	background-size: cover;
+	background-position: center center;
+} 
+#galery .about .left{
+	width: 50%;
+	height:100%;
+}
+#galery .about .right{
+	width: 50%;
+	height: 100%;
+}
+#galery .about .right .yuxari{
+	width: 100%;
+	height: 170px;
+}
+#galery .about .right .yuxari .left{
+	width: 170px;
+	height: 170px;
+
+}
+#galery .about .right .yuxari .left div img{
+	width: 80px;
+	margin:45px;
+}
+#galery .about .right .yuxari .right{
+	width: 490px;
+	height:170px;
+}
+#galery .about .right .orta{
+	width: 100%;
+	height: 170px;
+}
+#galery .about .right .orta .left{
+	width: 170px;
+	height: 170px;
+
+}
+#galery .about .right .orta .left div img{
+	width: 80px;
+	margin:45px;
+}
+#galery .about .right .orta .right{
+	width: 490px;
+	height:170px;
+}
+#galery .about .right .asagi{
+	width: 100%;
+	height: 170px;
+}
+#galery .about .right .asagi .left{
+	width: 170px;
+	height: 170px;
+
+}
+#galery .about .right .asagi .left div img{
+	width: 80px;
+	margin:45px;
+}
+#galery .about .right .asagi .right{
+	width: 490px;
+	height:170px;
+}
+
+
+
+/*Emrah Ismayilzade*/
+
+html, body{
+	margin: 0;
+	padding: 0;
+}
+.full{
+	width: 100%;
+}
+.wrapper{
+	width: 960px;
+	margin: 0 auto;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.news{
+	height: 650px;
+}
+.news .wrapper .newsHeading{
+	height: 101px;
+	background: #ffffff;
+	margin: 59px 0;
+	color: #838e99;
+	margin-bottom: 30px;
+}
+.news .wrapper .newsHeading h1{
+	font-size: 25px;
+}
+.news .wrapper .newsHeading p{
+	font-size: 17px;}
+
+
+.newsList .main{
+	width: 44%;
+}
+.newsList .main h3{
+	color: #838e99;
+}
+.newsList .main a{
+	border: 10px solid #bd9969;
+	background: #bd9969;
+	text-decoration: none;
+	color: #ffffff;
+	background-size: 113px 35px;
+}
+.newsList .other{
+	width: 44%;
+	margin: -7px 0;
+}
+.newsList .other h3{
+	font-size: 17px;
+}
+.newsList .other p, a{
+	font-size: 14px;
+}
+.newsList .other img{
+	padding: 7px 0px;
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.newsList .other h3, p, a{
+	margin: 10px 0;
+}
+.newsList .other h3, p{
+	color: #838e99;
+}
+.newsList .other a{
+	text-decoration: none;
+	color: #bd9969;
+}
+
+/*info section*/
+.info {
+	height: 490px;
+	background-image: url(../images/info.jpg);
+	background-repeat: no-repeat;
+}
+.info .wrapper .newsletter{
+	text-align: center;
+	height: 90px;
+	background: black;
+	border-radius: 0 0 20px 20px;
+}
+.info .wrapper .newsletter .first_quarter img{
+	margin: 25px 25px;
+	background: white;
+}
+.info .wrapper .newsletter .first_quarter h2{
+	color: white;
+	margin: 28px 0;
+}
+.info .wrapper .newsletter .three_quarter {
+	margin: 22px;
+	text-align: center;
+}
+.info .wrapper .newsletter .three_quarter input{
+	padding: 10px 0;
+	margin: 0 10px;
+}
+.info .wrapper .newsletter .three_quarter input:last-child{
+	width: 33%;
+}
+
+/*footer section*/
+
+.footer {
+	height: 60px;
+	background: black;
+	margin-top: 0;
+}
+.footer a{
+	text-decoration: none;
+	color: gray;
+}
+/*/
